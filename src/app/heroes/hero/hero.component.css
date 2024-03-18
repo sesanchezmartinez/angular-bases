@@ -1,0 +1,9 @@
+h1 {
+  font-size: 50px;
+}
+
+dd{
+  margin-left: 1rem;
+  font-size: 2rem;
+  font-weight: bold;
+}
